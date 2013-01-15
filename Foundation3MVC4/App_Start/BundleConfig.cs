@@ -40,6 +40,7 @@ namespace Foundation3MVC4
       #region Foundation Bundles
       bundles.Add(new StyleBundle("~/Content/foundation/css").Include(
                  "~/Content/foundation/foundation.css",
+                 "~/Content/foundation/foundation.mvc.css",
                  "~/Content/foundation/app.css"));
 
       bundles.Add(new ScriptBundle("~/bundles/foundation").Include(
