@@ -246,7 +246,6 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="humans.txt" />
-    <Content Include="readme.txt" />
     <Content Include="robots.txt" />
     <Content Include="Scripts\foundation\app.js" />
     <Content Include="Scripts\foundation\foundation.min.js" />
