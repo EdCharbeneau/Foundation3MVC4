@@ -32,6 +32,7 @@ Add the following bundles:
       #region Foundation Bundles
       bundles.Add(new StyleBundle("~/Content/foundation/css").Include(
                  "~/Content/foundation/foundation.css",
+                 "~/Content/foundation/foundation.mvc.css",
                  "~/Content/foundation/app.css"));
 
       bundles.Add(new ScriptBundle("~/bundles/foundation").Include(
@@ -68,6 +69,12 @@ Ed Charbeneau http://twitter.com/#!/edcharbeneau
 Foundation Zurb http://twitter.com/#!/foundationzurb
 
 Change Log:
+Version 3.0.324
+Added MVC CSS overrides. 
+  The foundation.mvc.css file contains CSS overrides that are specific to making sure that Foundation works well with MVC
+
+Updated Foundation core to 3.2.4
+See Foundation changelog for details http://foundation.zurb.com/docs/changelog.php
 
 Version 2.1.32
 

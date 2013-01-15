@@ -178,6 +178,7 @@
   <ItemGroup>
     <Content Include="Content\foundation\app.css" />
     <Content Include="Content\foundation\foundation.css" />
+    <Content Include="Content\foundation\foundation.mvc.css" />
     <Content Include="Content\images\foundation\orbit\bullets.jpg" />
     <Content Include="Content\images\foundation\orbit\left-arrow-small.png" />
     <Content Include="Content\images\foundation\orbit\left-arrow.png" />
