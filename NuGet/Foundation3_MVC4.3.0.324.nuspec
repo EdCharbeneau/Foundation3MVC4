@@ -25,7 +25,7 @@ Added MVC form input error support
         <copyright>MIT open source licensed</copyright>
         <tags>HTML CSS MVC Template Boilerplate Javascript Prototyping Framework Foundation Zurb</tags>
         <dependencies>
-            <dependency id="Foundation3_Core" version="3.2" />
+            <dependency id="Foundation3_Core" version="3.2.4" />
         </dependencies>
     </metadata>
     <files>
