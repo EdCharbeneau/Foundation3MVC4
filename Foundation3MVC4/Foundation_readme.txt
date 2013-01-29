@@ -69,6 +69,13 @@ Ed Charbeneau http://twitter.com/#!/edcharbeneau
 Foundation Zurb http://twitter.com/#!/foundationzurb
 
 Change Log:
+Version 3.0.325
+Strengthens the compatibility with jQuery 1.9, including:
+    Updates to the Foundation Topbar, including die() and live()
+    Update to Magellan javascript that removes calls to obsolete event listeners in jQuery
+    Also, Foundation 3.2.5 is fully compatible with jQuery 1.7 and above. However, before upgrading, we recommend that you read over the changes in the jQuery 1.9 Upgrade Guide. 
+    http://zurb.com/article/1157/foundation-3-2-5-gets-up-close-and-person
+
 Version 3.0.324
 Added MVC CSS overrides. 
   The foundation.mvc.css file contains CSS overrides that are specific to making sure that Foundation works well with MVC
